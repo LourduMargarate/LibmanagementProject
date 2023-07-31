@@ -1,0 +1,49 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "SignUpAdmin": [
+    {
+      "fullname": "margarate",
+      "email": "mar1998garate@gmail.com",
+      "password": "Josh2023",
+      "mobile": 9025867678,
+      "id": 1
+    },
+    {
+      "fullname": "vahitha",
+      "email": "vahitha@gmail.com",
+      "password": "vahitha",
+      "mobile": 9067564567,
+      "id": 2
+    },
+    {
+      "fullname": "saranya",
+      "email": "saranya@gmail.com",
+      "password": "saranya",
+      "mobile": 686976656,
+      "id": 3
+    },
+    {
+      "fullname": "Vahitha Banu",
+      "email": "svahitha25@gmail.com",
+      "password": "123",
+      "mobile": 987654320,
+      "id": 4
+    },
+    {
+      "fullname": "Vimala",
+      "email": "vimala2000@gmail.com",
+      "password": "vimala",
+      "mobile": 9056453423,
+      "id": 5
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

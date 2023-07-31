@@ -1,4 +1,8 @@
-import { Component } from '@angular/core';
+import { Component, OnDestroy, OnInit } from '@angular/core';
+
+import { Subscription } from 'rxjs';
+import { NavbarService } from './services/navbar.service';
+
 
 @Component({
   selector: 'app-root',
@@ -7,4 +11,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'librarymanagement';
+  myimg="assets/myimg/libimg.jpg";
+ 
+
 }
